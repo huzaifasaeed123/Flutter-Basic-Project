@@ -10,7 +10,7 @@ Welcome to the Roll Dice app! This is a basic Flutter app created for practice, 
 
 ## Screenshots
 
-![image](https://github.com/huzaifasaeed123/Flutter-Basic-Project/assets/143410512/a8397560-2f04-40b8-8e01-99f4a63c911b)       
+![image](https://github.com/huzaifasaeed123/Flutter-Basic-Project/assets/143410512/a8397560-2f04-40b8-8e01-99f4a63c911b)  
 ![image](https://github.com/huzaifasaeed123/Flutter-Basic-Project/assets/143410512/e4a1cf7a-b872-4698-920c-e5b9a9ba3827)
 
 
